@@ -19,7 +19,7 @@ void returnMoney(double money, double change[8])
     int count[] = {0,0,0,0,0,0,0,0};
     double showMoney = money;
     int i = 0;
-    showMoney /= 100;k
+    showMoney /= 100;
     
     while(money > 0)
     {
